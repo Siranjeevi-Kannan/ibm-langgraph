@@ -5,14 +5,14 @@ Built with LangGraph for ABC Technologies — Assignment 2
 ---
 
 ## Project Structure
-
+```
 customer_support_system/
 ├── main.py
 ├── rag.py
 ├── memory_store.py
 ├── schema.sql
 └── requirements.txt
-
+```
 ---
 
 ## Prerequisites
