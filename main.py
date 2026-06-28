@@ -307,15 +307,15 @@ def build_graph(db_path: str = "memory.db"):
 
 
 DEMO_QUERIES = [
-    {"id": "Q1", "customer_id": "cust_001", "customer_name": "Alice",
+    {"id": "Q1", "customer_id": "cust_001", "customer_name": "Raj",
      "query": "What are the pricing plans available for your software?", "expected": "Sales"},
-    {"id": "Q2", "customer_id": "cust_002", "customer_name": "Bob",
+    {"id": "Q2", "customer_id": "cust_002", "customer_name": "Vijay",
      "query": "I forgot my account password.", "expected": "Account"},
-    {"id": "Q3", "customer_id": "cust_003", "customer_name": "Carol",
+    {"id": "Q3", "customer_id": "cust_003", "customer_name": "Prem",
      "query": "My application crashes whenever I upload a file.", "expected": "Technical Support"},
-    {"id": "Q4", "customer_id": "cust_004", "customer_name": "David",
+    {"id": "Q4", "customer_id": "cust_004", "customer_name": "Monish",
      "query": "I need a refund for my annual subscription.", "expected": "Billing — requires human approval"},
-    {"id": "Q5", "customer_id": "cust_001", "customer_name": "Alice",
+    {"id": "Q5", "customer_id": "cust_001", "customer_name": "Raj",
      "query": "What was my previous support issue?", "expected": "Memory recall"},
 ]
 
