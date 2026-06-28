@@ -76,7 +76,7 @@ python main.py --interactive
 When prompted:
 
 Enter your customer ID: cust_001
-Enter your name: Alice
+Enter your name: Raj
 You: What are the pricing plans?
 You: What was my previous support issue?
 You: exit
