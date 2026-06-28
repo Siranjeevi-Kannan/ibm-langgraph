@@ -8,14 +8,19 @@ Built with LangGraph for ABC Technologies — Assignment 2
 ```
 customer_support_system/
 │
+├── documents/
+│   ├── company_policy.txt
+│   ├── pricing_guide.txt
+│   ├── technical_manual.txt
+│   └── faq.txt
 ├── schema/
-│   └── schema.sql            # SQLite database schema
-├── workflow.png              # LangGraph architecture diagram (Task 1)      
-├── main.py                   # Core LangGraph workflow (Tasks 1–5, 8–10)
-├── rag.py                    # RAG pipeline (Task 6)
-├── memory_store.py           # SQLite memory (Task 7)
-├── memory.db                 # Generated after first run
-├── requirements.txt          # Python dependencies
+│   └── schema.sql
+├── main.py
+├── rag.py
+├── memory_store.py
+├── memory.db
+├── workflow.png
+├── requirements.txt
 └── README.md
 ```
 ---
