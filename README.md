@@ -1,6 +1,6 @@
 # AI-Powered Customer Support Automation System
 
-Built with LangGraph for ABC Technologies — Assignment 2
+Built with LangGraph for IBM Agentic AI course — Assignment 2
 
 ---
 
