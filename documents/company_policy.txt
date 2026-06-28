@@ -1,0 +1,8 @@
+All refund requests must be submitted within 30 days of purchase.
+Subscription cancellations take effect at the end of the current billing cycle.
+Account closure requests are processed within 5-7 business days.
+Compensation requests require escalation to a senior support manager.
+ABC Technologies provides 99.9% uptime SLA for all cloud services.
+Data is retained for 90 days after account closure as per our data retention policy.
+Customers may request a full data export before closing their account.
+Support tickets are acknowledged within 2 hours and resolved within 24-48 hours.

@@ -1,0 +1,29 @@
+Application Crash on File Upload:
+- Check file size limit: maximum 100 MB per file (500 MB on Business/Enterprise)
+- Supported formats: PDF, DOCX, XLSX, PNG, JPG, CSV
+- Clear browser cache and cookies, then retry
+- Disable browser extensions that may interfere with uploads
+- Check browser console for JavaScript errors and report to technical support
+
+Login Issues / Password Reset:
+- Use the Forgot Password link on the login page
+- Password reset email is sent within 2 minutes; check spam folder
+- Passwords must be 8+ characters with at least one uppercase, one number, one symbol
+- After 5 failed attempts, account is locked for 15 minutes
+
+Installation Issues:
+- Minimum requirements: Windows 10 / macOS 11 / Ubuntu 20.04
+- RAM: 4 GB minimum, 8 GB recommended
+- Run installer as Administrator (Windows) or with sudo (Linux/macOS)
+- Disable antivirus temporarily during installation if blocked
+
+Configuration Issues:
+- API keys can be regenerated from Settings > API > Regenerate Key
+- Webhook URLs must use HTTPS
+- SMTP configuration: use port 587 with TLS
+
+Error Codes:
+- ERR_001: Authentication failure — reset password
+- ERR_002: Network timeout — check internet connection
+- ERR_003: File format not supported
+- ERR_500: Server error — contact technical support

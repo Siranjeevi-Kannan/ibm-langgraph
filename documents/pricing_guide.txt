@@ -1,0 +1,7 @@
+Starter Plan   : $29/month — Up to 5 users, 10 GB storage, email support
+Professional   : $79/month — Up to 25 users, 100 GB storage, priority support, API access
+Business       : $199/month — Up to 100 users, 500 GB storage, dedicated manager, SLA guarantee
+Enterprise     : Custom pricing — Unlimited users, unlimited storage, on-premise option, 24/7 phone support
+Annual Discount: 20% off all plans when billed annually
+Free Trial     : 14-day free trial available for Starter and Professional plans
+Add-ons        : Additional storage $5/10 GB/month; extra user seats $8/user/month
