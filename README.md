@@ -72,7 +72,7 @@ python main.py --demo
 ```bash
 python main.py --interactive
 ```
-
+```
 When prompted:
 
 Enter your customer ID: cust_001
@@ -80,7 +80,7 @@ Enter your name: Alice
 You: What are the pricing plans?
 You: What was my previous support issue?
 You: exit
-
+```
 ### Skip human approval (auto-approve all requests)
 
 ```bash
@@ -108,12 +108,12 @@ python main.py --demo --interactive
 ---
 
 ## Human-in-the-Loop (Query 4)
-
+```
 When Query 4 runs, the system will pause and display the draft response, then prompt:
 
 Options: approve / reject / modify
 Decision:
-
+```
 Type one of the following and press Enter:
 
 | Input | Action |
