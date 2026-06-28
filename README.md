@@ -10,8 +10,7 @@ customer_support_system/
 │
 ├── schema/
 │   └── schema.sql            # SQLite database schema
-├── diagrams/
-│   └── workflow.png          # LangGraph architecture diagram (Task 1)
+├── workflow.png              # LangGraph architecture diagram (Task 1)      
 ├── main.py                   # Core LangGraph workflow (Tasks 1–5, 8–10)
 ├── rag.py                    # RAG pipeline (Task 6)
 ├── memory_store.py           # SQLite memory (Task 7)
